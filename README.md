@@ -43,8 +43,8 @@ print(value)
 ii)	#Insertion Sort
 ```
 Program to sort the elements in the list using the Insertion Sort algorithm.
-Developed by: your name
-RegisterNumber: 
+Developed by: Monisha T
+RegisterNumber: 21500314
 '''
 def insertion_sort(nums):
     # Write your code here to sort the elements in the list using Insertion sort algorithm
